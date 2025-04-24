@@ -1,0 +1,21 @@
+{
+  "name": "syllabl",
+  "short_name": "syllabl",
+  "description": "A daily word puzzle game that challenges your vocabulary",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3490dc",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/syllabl-social.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+} 

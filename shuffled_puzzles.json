@@ -1,0 +1,2424 @@
+{
+    "puzzles": [
+      {
+        "puzzleLetters": "dra",
+        "difficulty": 2,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          3,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "alt",
+        "difficulty": 3,
+        "inputsEnabled": [
+          2,
+          2,
+          1,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          2,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "lla",
+        "difficulty": 2,
+        "inputsEnabled": [
+          3,
+          3,
+          3,
+          1,
+          1,
+          2
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          3,
+          2,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "int",
+        "difficulty": 2,
+        "inputsEnabled": [
+          2,
+          2,
+          1,
+          1,
+          1,
+          3
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          1,
+          2,
+          3,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "bon",
+        "difficulty": 3,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          1,
+          3,
+          4
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          3,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "ack",
+        "difficulty": 3,
+        "inputsEnabled": [
+          1,
+          1,
+          1,
+          3,
+          3,
+          2
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          3,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "nut",
+        "difficulty": 2,
+        "inputsEnabled": [
+          1,
+          1,
+          2,
+          2,
+          2,
+          3
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          2,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "ony",
+        "difficulty": 3,
+        "inputsEnabled": [
+          1,
+          1,
+          1,
+          3,
+          3,
+          2
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "qua",
+        "difficulty": 2,
+        "inputsEnabled": [
+          3,
+          3,
+          3,
+          2,
+          2,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          3,
+          1,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "the",
+        "difficulty": 1,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          3,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "hot",
+        "difficulty": 3,
+        "inputsEnabled": [
+          3,
+          3,
+          3,
+          2,
+          1,
+          4
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          3,
+          3,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "amb",
+        "difficulty": 4,
+        "inputsEnabled": [
+          1,
+          2,
+          2,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "puzzleLetters": "hos",
+        "difficulty": 3,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "thy",
+        "difficulty": 4,
+        "inputsEnabled": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          3
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          2,
+          1,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "ord",
+        "difficulty": 2,
+        "inputsEnabled": [
+          2,
+          2,
+          1,
+          1,
+          1,
+          3
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          1,
+          2,
+          3,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "pha",
+        "difficulty": 3,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          3,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "ant",
+        "difficulty": 3,
+        "inputsEnabled": [
+          1,
+          1,
+          2,
+          2,
+          3,
+          4
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          2,
+          3,
+          3,
+          5
+        ]
+      },
+      {
+        "puzzleLetters": "dom",
+        "difficulty": 2,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          1,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "puzzleLetters": "mut",
+        "difficulty": 3,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          3,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "jor",
+        "difficulty": 5,
+        "inputsEnabled": [
+          1,
+          2,
+          3,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          2,
+          1,
+          3,
+          4,
+          6,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "nom",
+        "difficulty": 4,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          1
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          4,
+          1,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "ree",
+        "difficulty": 2,
+        "inputsEnabled": [
+          2,
+          3,
+          3,
+          3,
+          1,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          1,
+          2,
+          3,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "ave",
+        "difficulty": 1,
+        "inputsEnabled": [
+          1,
+          1,
+          3,
+          3,
+          2,
+          2
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          2,
+          3,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "apt",
+        "difficulty": 3,
+        "inputsEnabled": [
+          1,
+          2,
+          2,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "puzzleLetters": "nit",
+        "difficulty": 2,
+        "inputsEnabled": [
+          2,
+          3,
+          3,
+          3,
+          1,
+          1
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          2,
+          1,
+          2,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "scr",
+        "difficulty": 2,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "puzzleLetters": "ach",
+        "difficulty": 3,
+        "inputsEnabled": [
+          2,
+          1,
+          1,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          1,
+          2,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "ala",
+        "difficulty": 2,
+        "inputsEnabled": [
+          2,
+          3,
+          3,
+          3,
+          1,
+          1
+        ],
+        "syllablesRequired": [
+          2,
+          2,
+          3,
+          4,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "aut",
+        "difficulty": 5,
+        "inputsEnabled": [
+          1,
+          1,
+          1,
+          3,
+          2,
+          2
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "ign",
+        "difficulty": 2,
+        "inputsEnabled": [
+          1,
+          1,
+          2,
+          2,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          2,
+          3,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "lac",
+        "difficulty": 4,
+        "inputsEnabled": [
+          3,
+          3,
+          2,
+          2,
+          2,
+          1
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          1,
+          2,
+          5,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "bra",
+        "difficulty": 3,
+        "inputsEnabled": [
+          2,
+          2,
+          3,
+          3,
+          1,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          2,
+          3,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "ora",
+        "difficulty": 3,
+        "inputsEnabled": [
+          2,
+          2,
+          3,
+          3,
+          1,
+          1
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          2,
+          3,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "air",
+        "difficulty": 2,
+        "inputsEnabled": [
+          3,
+          3,
+          1,
+          1,
+          1,
+          2
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          1,
+          2,
+          3,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "tic",
+        "difficulty": 1,
+        "inputsEnabled": [
+          2,
+          3,
+          3,
+          1,
+          1,
+          1
+        ],
+        "syllablesRequired": [
+          2,
+          1,
+          2,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "puzzleLetters": "lep",
+        "difficulty": 5,
+        "inputsEnabled": [
+          3,
+          3,
+          3,
+          1,
+          1,
+          2
+        ],
+        "syllablesRequired": [
+          3,
+          2,
+          1,
+          2,
+          1,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "lad",
+        "difficulty": 2,
+        "inputsEnabled": [
+          2,
+          2,
+          3,
+          3,
+          1,
+          1
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          1,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "por",
+        "difficulty": 2,
+        "inputsEnabled": [
+          3,
+          3,
+          3,
+          2,
+          2,
+          1
+        ],
+        "syllablesRequired": [
+          3,
+          2,
+          1,
+          3,
+          2,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "ous",
+        "difficulty": 5,
+        "inputsEnabled": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          2
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "asy",
+        "difficulty": 5,
+        "inputsEnabled": [
+          1,
+          1,
+          2,
+          2,
+          3,
+          1
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          3,
+          4,
+          4,
+          6
+        ]
+      },
+      {
+        "puzzleLetters": "ali",
+        "difficulty": 3,
+        "inputsEnabled": [
+          2,
+          2,
+          3,
+          3,
+          3,
+          1
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          2,
+          3,
+          4,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "aca",
+        "difficulty": 4,
+        "inputsEnabled": [
+          3,
+          3,
+          3,
+          2,
+          2,
+          1
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          4,
+          5,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "ble",
+        "difficulty": 2,
+        "inputsEnabled": [
+          2,
+          2,
+          1,
+          1,
+          1,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          2,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "alm",
+        "difficulty": 3,
+        "inputsEnabled": [
+          1,
+          1,
+          3,
+          3,
+          2,
+          2
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          2,
+          3,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "eal",
+        "difficulty": 3,
+        "inputsEnabled": [
+          1,
+          3,
+          3,
+          1,
+          1,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "ago",
+        "difficulty": 5,
+        "inputsEnabled": [
+          3,
+          3,
+          2,
+          2,
+          2,
+          1
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "puzzleLetters": "tch",
+        "difficulty": 4,
+        "inputsEnabled": [
+          1,
+          1,
+          1,
+          3,
+          3,
+          2
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          1,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "war",
+        "difficulty": 3,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "tor",
+        "difficulty": 2,
+        "inputsEnabled": [
+          3,
+          3,
+          3,
+          1,
+          2,
+          4
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          1,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "dir",
+        "difficulty": 4,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          2,
+          3,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          4,
+          3,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "car",
+        "difficulty": 1,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          1,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "art",
+        "difficulty": 2,
+        "inputsEnabled": [
+          1,
+          1,
+          2,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "sar",
+        "difficulty": 4,
+        "inputsEnabled": [
+          2,
+          2,
+          3,
+          3,
+          1,
+          1
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          2,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "ell",
+        "difficulty": 3,
+        "inputsEnabled": [
+          1,
+          1,
+          3,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "que",
+        "difficulty": 2,
+        "inputsEnabled": [
+          2,
+          2,
+          3,
+          3,
+          1,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          1,
+          2,
+          1,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "ver",
+        "difficulty": 1,
+        "inputsEnabled": [
+          1,
+          1,
+          3,
+          3,
+          2,
+          2
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          2,
+          3,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "nat",
+        "difficulty": 3,
+        "inputsEnabled": [
+          2,
+          2,
+          3,
+          3,
+          3,
+          1
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          3,
+          2,
+          1,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "ari",
+        "difficulty": 2,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          1
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          2,
+          3,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "lea",
+        "difficulty": 2,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "ood",
+        "difficulty": 2,
+        "inputsEnabled": [
+          1,
+          1,
+          1,
+          3,
+          3,
+          2
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          3,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "und",
+        "difficulty": 4,
+        "inputsEnabled": [
+          2,
+          2,
+          1,
+          1,
+          3,
+          4
+        ],
+        "syllablesRequired": [
+          2,
+          4,
+          1,
+          2,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "asp",
+        "difficulty": 2,
+        "inputsEnabled": [
+          1,
+          3,
+          3,
+          3,
+          2,
+          2
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          4,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "sal",
+        "difficulty": 4,
+        "inputsEnabled": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          3
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          2,
+          3,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "lin",
+        "difficulty": 1,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          1,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "you",
+        "difficulty": 5,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          3,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "cor",
+        "difficulty": 1,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "cad",
+        "difficulty": 4,
+        "inputsEnabled": [
+          2,
+          2,
+          3,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "puzzleLetters": "ast",
+        "difficulty": 2,
+        "inputsEnabled": [
+          1,
+          1,
+          1,
+          3,
+          3,
+          2
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "sec",
+        "difficulty": 2,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          1
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          2,
+          3,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "ink",
+        "difficulty": 3,
+        "inputsEnabled": [
+          1,
+          1,
+          3,
+          3,
+          3,
+          2
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          2,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "pia",
+        "difficulty": 5,
+        "inputsEnabled": [
+          2,
+          3,
+          3,
+          1,
+          1,
+          1
+        ],
+        "syllablesRequired": [
+          3,
+          3,
+          4,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "puzzleLetters": "oli",
+        "difficulty": 3,
+        "inputsEnabled": [
+          2,
+          2,
+          3,
+          3,
+          3,
+          1
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          2,
+          3,
+          4,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "phe",
+        "difficulty": 5,
+        "inputsEnabled": [
+          2,
+          2,
+          1,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          3,
+          4,
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "esc",
+        "difficulty": 2,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "puzzleLetters": "ual",
+        "difficulty": 3,
+        "inputsEnabled": [
+          3,
+          3,
+          3,
+          1,
+          1,
+          1
+        ],
+        "syllablesRequired": [
+          3,
+          2,
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "puzzleLetters": "ful",
+        "difficulty": 3,
+        "inputsEnabled": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "ity",
+        "difficulty": 4,
+        "inputsEnabled": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          3
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "ped",
+        "difficulty": 2,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "puzzleLetters": "lit",
+        "difficulty": 1,
+        "inputsEnabled": [
+          3,
+          3,
+          2,
+          2,
+          2,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          2,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "ost",
+        "difficulty": 2,
+        "inputsEnabled": [
+          1,
+          1,
+          3,
+          3,
+          3,
+          2
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          2,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "iso",
+        "difficulty": 4,
+        "inputsEnabled": [
+          3,
+          3,
+          3,
+          3,
+          1,
+          2
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          5,
+          2,
+          4
+        ]
+      },
+      {
+        "puzzleLetters": "bit",
+        "difficulty": 3,
+        "inputsEnabled": [
+          2,
+          2,
+          3,
+          3,
+          1,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          4,
+          3,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "sis",
+        "difficulty": 2,
+        "inputsEnabled": [
+          2,
+          3,
+          3,
+          1,
+          1,
+          1
+        ],
+        "syllablesRequired": [
+          2,
+          2,
+          3,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "puzzleLetters": "rio",
+        "difficulty": 4,
+        "inputsEnabled": [
+          3,
+          3,
+          3,
+          2,
+          1,
+          1
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          2,
+          2,
+          4
+        ]
+      },
+      {
+        "puzzleLetters": "tar",
+        "difficulty": 2,
+        "inputsEnabled": [
+          1,
+          1,
+          3,
+          3,
+          2,
+          4
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          1,
+          2,
+          2,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "eau",
+        "difficulty": 5,
+        "inputsEnabled": [
+          3,
+          3,
+          3,
+          1,
+          1,
+          1
+        ],
+        "syllablesRequired": [
+          4,
+          3,
+          2,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "ono",
+        "difficulty": 5,
+        "inputsEnabled": [
+          3,
+          3,
+          3,
+          3,
+          1,
+          2
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          5,
+          3,
+          6
+        ]
+      },
+      {
+        "puzzleLetters": "wel",
+        "difficulty": 5,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          1,
+          2,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "gue",
+        "difficulty": 3,
+        "inputsEnabled": [
+          2,
+          2,
+          1,
+          1,
+          1,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          3,
+          1,
+          2,
+          3,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "sch",
+        "difficulty": 5,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          3,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "ght",
+        "difficulty": 2,
+        "inputsEnabled": [
+          1,
+          1,
+          1,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "dge",
+        "difficulty": 4,
+        "inputsEnabled": [
+          1,
+          1,
+          1,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "puzzleLetters": "mit",
+        "difficulty": 1,
+        "inputsEnabled": [
+          1,
+          2,
+          2,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          2,
+          2,
+          3,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "mur",
+        "difficulty": 4,
+        "inputsEnabled": [
+          1,
+          2,
+          3,
+          3,
+          3,
+          4
+        ],
+        "syllablesRequired": [
+          2,
+          2,
+          2,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "plu",
+        "difficulty": 3,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          2,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          4,
+          2,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "bou",
+        "difficulty": 3,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          3,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "loo",
+        "difficulty": 2,
+        "inputsEnabled": [
+          2,
+          2,
+          3,
+          3,
+          3,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          1,
+          2,
+          3,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "sma",
+        "difficulty": 3,
+        "inputsEnabled": [
+          2,
+          2,
+          3,
+          3,
+          3,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          2,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "ism",
+        "difficulty": 3,
+        "inputsEnabled": [
+          1,
+          1,
+          1,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "puzzleLetters": "raz",
+        "difficulty": 5,
+        "inputsEnabled": [
+          3,
+          3,
+          3,
+          3,
+          2,
+          2
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          4,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "str",
+        "difficulty": 2,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          4,
+          3,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "che",
+        "difficulty": 3,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          3,
+          1,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "ent",
+        "difficulty": 2,
+        "inputsEnabled": [
+          1,
+          1,
+          1,
+          3,
+          3,
+          4
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          3,
+          1,
+          4
+        ]
+      },
+      {
+        "puzzleLetters": "dec",
+        "difficulty": 3,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "puzzleLetters": "zen",
+        "difficulty": 5,
+        "inputsEnabled": [
+          1,
+          1,
+          3,
+          3,
+          3,
+          2
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          2,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "ito",
+        "difficulty": 5,
+        "inputsEnabled": [
+          3,
+          3,
+          3,
+          3,
+          1,
+          1
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          5,
+          3,
+          4
+        ]
+      },
+      {
+        "puzzleLetters": "fic",
+        "difficulty": 4,
+        "inputsEnabled": [
+          3,
+          3,
+          2,
+          1,
+          1,
+          1
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          2,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "puzzleLetters": "end",
+        "difficulty": 1,
+        "inputsEnabled": [
+          1,
+          1,
+          2,
+          2,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          2,
+          3,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "off",
+        "difficulty": 2,
+        "inputsEnabled": [
+          1,
+          1,
+          2,
+          2,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          2,
+          3,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "ind",
+        "difficulty": 2,
+        "inputsEnabled": [
+          1,
+          1,
+          1,
+          3,
+          3,
+          2
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          3,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "tri",
+        "difficulty": 1,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "irt",
+        "difficulty": 3,
+        "inputsEnabled": [
+          1,
+          1,
+          3,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          3,
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "rst",
+        "difficulty": 3,
+        "inputsEnabled": [
+          1,
+          1,
+          3,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "puzzleLetters": "ang",
+        "difficulty": 3,
+        "inputsEnabled": [
+          1,
+          1,
+          1,
+          2,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          1,
+          2
+        ]
+      },
+      {
+        "puzzleLetters": "hat",
+        "difficulty": 2,
+        "inputsEnabled": [
+          2,
+          1,
+          2,
+          1,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          1,
+          1,
+          2,
+          2,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "nas",
+        "difficulty": 3,
+        "inputsEnabled": [
+          2,
+          2,
+          3,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "age",
+        "difficulty": 1,
+        "inputsEnabled": [
+          2,
+          2,
+          1,
+          1,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          2,
+          3,
+          2,
+          3
+        ]
+      },
+      {
+        "puzzleLetters": "leg",
+        "difficulty": 4,
+        "inputsEnabled": [
+          2,
+          2,
+          2,
+          3,
+          3,
+          3
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "ter",
+        "difficulty": 1,
+        "inputsEnabled": [
+          3,
+          3,
+          3,
+          1,
+          1,
+          2
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          2,
+          3,
+          1
+        ]
+      },
+      {
+        "puzzleLetters": "gan",
+        "difficulty": 4,
+        "inputsEnabled": [
+          2,
+          2,
+          3,
+          1,
+          1,
+          1
+        ],
+        "syllablesRequired": [
+          1,
+          2,
+          3,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "puzzleLetters": "ion",
+        "difficulty": 4,
+        "inputsEnabled": [
+          1,
+          1,
+          1,
+          3,
+          3,
+          4
+        ],
+        "syllablesRequired": [
+          2,
+          3,
+          4,
+          3,
+          4,
+          5
+        ]
+      }
+    ]
+}

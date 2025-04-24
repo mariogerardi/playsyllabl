@@ -1,0 +1,73 @@
+{
+    "greetings": {
+      "newDailyPuzzle": [
+        "let the puzzle <span class='syllablized-word'><span class='syllable'>com</span><span class='interpunct'>·</span><span class='syllable'>mence</span></span>.",
+        "fresh <span class='syllablized-word'><span class='syllable'>syll</span><span class='interpunct'>·</span><span class='syllable'>a</span><span class='interpunct'>·</span><span class='syllable'>bles</span></span> await.",
+        "your word <span class='syllablized-word'><span class='syllable'>jour</span><span class='interpunct'>·</span><span class='syllable'>ney</span></span> begins."
+      ],
+      "resumedDailyPuzzle": [
+        "ready to resume your <span class='syllablized-word'><span class='syllable'>ad</span><span class='interpunct'>·</span><span class='syllable'>ven</span><span class='interpunct'>·</span><span class='syllable'>ture</span></span>?",
+        "your <span class='syllablized-word'><span class='syllable'>cre</span><span class='interpunct'>·</span><span class='syllable'>a</span><span class='interpunct'>·</span><span class='syllable'>tion</span></span> still has work to do.",
+        "time to finish this <span class='syllablized-word'><span class='syllable'>mas</span><span class='interpunct'>·</span><span class='syllable'>ter</span><span class='interpunct'>·</span><span class='syllable'>piece</span></span>."
+      ],
+      "completedDailyPuzzle": [
+        "you were <span class='syllablized-word'><span class='syllable'>tri</span><span class='interpunct'>·</span><span class='syllable'>um</span><span class='interpunct'>·</span><span class='syllable'>phant</span></span> today — well done!",
+        "that’s a <span class='syllablized-word'><span class='syllable'>vic</span><span class='interpunct'>·</span><span class='syllable'>to</span><span class='interpunct'>·</span><span class='syllable'>ry</span></span> worth celebrating!",
+        "today's <span class='syllablized-word'><span class='syllable'>ex</span><span class='interpunct'>·</span><span class='syllable'>plo</span><span class='interpunct'>·</span><span class='syllable'>ra</span><span class='interpunct'>·</span><span class='syllable'>tion</span></span> was a success."
+      ],
+      "shufflePuzzleStart": [
+        "give this <span class='syllablized-word'><span class='syllable'>tri</span><span class='interpunct'>·</span><span class='syllable'>ad</span></span> a whirl.",
+        "your fresh <span class='syllablized-word'><span class='syllable'>puz</span><span class='interpunct'>·</span><span class='syllable'>zle</span></span> is ready.",
+        "ready for a <span class='syllablized-word'><span class='syllable'>sur</span><span class='interpunct'>·</span><span class='syllable'>prise</span></span> adventure?"
+      ],
+      "customPuzzleStart": [
+        "your <span class='syllablized-word'><span class='syllable'>cu</span><span class='interpunct'>·</span><span class='syllable'>ri</span><span class='interpunct'>·</span><span class='syllable'>o</span><span class='interpunct'>·</span><span class='syllable'>si</span><span class='interpunct'>·</span><span class='syllable'>ty</span></span> sparked this one.",
+        "a custom <span class='syllablized-word'><span class='syllable'>cre</span><span class='interpunct'>·</span><span class='syllable'>a</span><span class='interpunct'>·</span><span class='syllable'>tion</span></span> — let's go.",
+        "ready to test your <span class='syllablized-word'><span class='syllable'>in</span><span class='interpunct'>·</span><span class='syllable'>ge</span><span class='interpunct'>·</span><span class='syllable'>nu</span><span class='interpunct'>·</span><span class='syllable'>i</span><span class='interpunct'>·</span><span class='syllable'>ty</span></span>?"
+      ]
+    },
+    "victoryFeedback": {
+      "10orLower": [
+        "a <span class='syllablized-word'><span class='syllable'>sol</span><span class='interpunct'>·</span><span class='syllable'>id</span></span> showing!",
+        "a <span class='syllablized-word'><span class='syllable'>de</span><span class='interpunct'>·</span><span class='syllable'>cent</span></span> run. try to find more <span class='syllablized-word'><span class='syllable'>un</span><span class='interpunct'>·</span><span class='syllable'>com</span><span class='interpunct'>·</span><span class='syllable'>mon</span></span> words next time."
+      ],
+      "15orLower": [
+        "a <span class='syllablized-word'><span class='syllable'>val</span><span class='interpunct'>·</span><span class='syllable'>iant</span></span> effort.",
+        "you’re finding your <span class='syllablized-word'><span class='syllable'>rhy</span><span class='interpunct'>·</span><span class='syllable'>thm</span></span> — nice work."
+      ],
+      "20orLower": [
+        "great job – keep honing your <span class='syllablized-word'><span class='syllable'>strat</span><span class='interpunct'>·</span><span class='syllable'>e</span><span class='interpunct'>·</span><span class='syllable'>gy</span></span>!",
+        "a <span class='syllablized-word'><span class='syllable'>splen</span><span class='interpunct'>·</span><span class='syllable'>did</span></span> <span class='syllablized-word'><span class='syllable'>per</span><span class='interpunct'>·</span><span class='syllable'>for</span><span class='interpunct'>·</span><span class='syllable'>mance</span></span>!"
+      ],
+      "25orLower": [
+        "<span class='syllablized-word'><span class='syllable'>ex</span><span class='interpunct'>·</span><span class='syllable'>cel</span><span class='interpunct'>·</span><span class='syllable'>lent</span></span> work — your words <span class='syllablized-word'><span class='syllable'>daz</span><span class='interpunct'>·</span><span class='syllable'>zle</span></span>.",
+        "<span class='syllablized-word'><span class='syllable'>in</span><span class='interpunct'>·</span><span class='syllable'>cred</span><span class='interpunct'>·</span><span class='syllable'>i</span><span class='interpunct'>·</span><span class='syllable'>ble</span></span>! you’ve reached new heights of <span class='syllablized-word'><span class='syllable'>ob</span><span class='interpunct'>·</span><span class='syllable'>scu</span><span class='interpunct'>·</span><span class='syllable'>ri</span><span class='interpunct'>·</span><span class='syllable'>ty</span></span>."
+      ],
+      "30orLower": [
+        "this score deserves a <span class='syllablized-word'><span class='syllable'>stand</span><span class='interpunct'>·</span><span class='syllable'>ing</span></span> <span class='syllablized-word'><span class='syllable'>o</span><span class='interpunct'>·</span><span class='syllable'>va</span><span class='interpunct'>·</span><span class='syllable'>tion</span></span>.",
+        "you’ve achieved <span class='syllablized-word'><span class='syllable'>lin</span><span class='interpunct'>·</span><span class='syllable'>guis</span><span class='interpunct'>·</span><span class='syllable'>tic</span></span> <span class='syllablized-word'><span class='syllable'>brill</span><span class='interpunct'>·</span><span class='syllable'>iance</span></span>."
+      ]
+    },
+    "wordSubmissionFeedback": {
+      "1": [
+        "that word is quite <span class='syllablized-word'><span class='syllable'>pop</span><span class='interpunct'>·</span><span class='syllable'>u</span><span class='interpunct'>·</span><span class='syllable'>lar</span></span>.",
+        "a <span class='syllablized-word'><span class='syllable'>com</span><span class='interpunct'>·</span><span class='syllable'>mon</span></span> choice."
+      ],
+      "2": [
+        "a <span class='syllablized-word'><span class='syllable'>fa</span><span class='interpunct'>·</span><span class='syllable'>mil</span><span class='interpunct'>·</span><span class='syllable'>iar</span></span> pick — still solid.",
+        "nicely done. can you find a more <span class='syllablized-word'><span class='syllable'>ob</span><span class='interpunct'>·</span><span class='syllable'>scure</span></span> word?"
+      ],
+      "3": [
+        "a <span class='syllablized-word'><span class='syllable'>no</span><span class='interpunct'>·</span><span class='syllable'>ta</span><span class='interpunct'>·</span><span class='syllable'>ble</span></span> choice.",
+        "that's an <span class='syllablized-word'><span class='syllable'>in</span><span class='interpunct'>·</span><span class='syllable'>ter</span><span class='interpunct'>·</span><span class='syllable'>est</span><span class='interpunct'>·</span><span class='syllable'>ing</span></span> one."
+      ],
+      "4": [
+        "an <span class='syllablized-word'><span class='syllable'>im</span><span class='interpunct'>·</span><span class='syllable'>pres</span><span class='interpunct'>·</span><span class='syllable'>sive</span></span> find.",
+        "you picked a pretty <span class='syllablized-word'><span class='syllable'>re</span><span class='interpunct'>·</span><span class='syllable'>mark</span><span class='interpunct'>·</span><span class='syllable'>a</span><span class='interpunct'>·</span><span class='syllable'>ble</span></span> word."
+      ],
+      "5": [
+        "<span class='syllablized-word'><span class='syllable'>leg</span><span class='interpunct'>·</span><span class='syllable'>end</span><span class='interpunct'>·</span><span class='syllable'>ar</span><span class='interpunct'>·</span><span class='syllable'>y</span></span> choice.",
+        "that word is <span class='syllablized-word'><span class='syllable'>ex</span><span class='interpunct'>·</span><span class='syllable'>traor</span><span class='interpunct'>·</span><span class='syllable'>di</span><span class='interpunct'>·</span><span class='syllable'>nar</span><span class='interpunct'>·</span><span class='syllable'>i</span><span class='interpunct'>·</span><span class='syllable'>ly</span></span> rare."
+      ]
+    }
+}

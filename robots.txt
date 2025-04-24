@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /style.css
+Allow: /themes.css
+Allow: /script.js
+Allow: /syllabl-social.png
+Allow: /favicon.ico
+
+Sitemap: https://playsyllabl.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 10
+
+# Disallow admin and private directories
+Disallow: /admin/
+Disallow: /private/ 
